@@ -1,0 +1,3 @@
+agemoci,12,dor,dipirona,agener
+drogas,24,dor intensa,paracetamol,prati dnoadulce
+dipirona,12/12h,dor,dipirona,teuto
